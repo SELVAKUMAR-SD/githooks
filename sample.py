@@ -1,3 +1,4 @@
-import datetime
 import uuid
-print("dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd")
+import datetime
+sample_str = "selvakumar"
+print("ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd")
